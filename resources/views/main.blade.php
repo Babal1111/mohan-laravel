@@ -18,8 +18,8 @@
         <div class="container">
 
             <div class="logo">
-                <img src="{{ asset('images/logo.png') }}" alt="Hash Logo">
-                <span>Hash Restaurant</span>
+                <!-- <img src="{{ asset('images/logo.png') }}" alt="Hash Logo"> -->
+                <span>Mohan chicken Restaurant</span>
             </div>
 
             <div class="nav-page">
